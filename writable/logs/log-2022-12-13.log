@@ -1,0 +1,275 @@
+CRITICAL - 2022-12-13 06:03:13 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:35:58 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:36:04 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('2')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:39:42 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('2')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:41:04 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:41:15 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:41:34 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:41:55 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->create()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:43:15 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:43:24 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:44:21 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:45:19 --> Unmatched '}'
+in APPPATH\Models\ProductModel.php on line 11.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProductModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProductModel')
+ 3 APPPATH\Controllers\Products.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProductModel')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:45:31 --> Unmatched '}'
+in APPPATH\Models\ProductModel.php on line 11.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProductModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProductModel')
+ 3 APPPATH\Controllers\Products.php(13): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProductModel')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 06:45:35 --> Unmatched '}'
+in APPPATH\Models\ProductModel.php on line 11.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProductModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProductModel')
+ 3 APPPATH\Controllers\Products.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProductModel')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-13 19:14:50 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Views\welcome_message.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 19:35:27 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Views\welcome_message.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 19:35:42 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Views\welcome_message.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 19:35:47 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Views\welcome_message.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 19:35:51 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Views\welcome_message.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 19:35:57 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Views\welcome_message.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 20:22:39 --> syntax error, unexpected token ";"
+in APPPATH\Views\welcome_message.php on line 41.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 20:36:52 --> Invalid file: layout/page_layout.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('dashboard')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 20:54:22 --> Invalid file: propsal.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('propsal.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('propsal', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('propsal')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-13 22:12:45 --> mysqli_sql_exception: Table 'simta.product' doesn't exist in E:\program files\xampp\htdocs\simta\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 E:\program files\xampp\htdocs\simta\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\program files\xampp\htdocs\simta\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\program files\xampp\htdocs\simta\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\program files\xampp\htdocs\simta\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\program files\xampp\htdocs\simta\system\Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\program files\xampp\htdocs\simta\system\BaseModel.php(585): CodeIgniter\Model->doFindAll(0, 0)
+#6 E:\program files\xampp\htdocs\simta\app\Controllers\Products.php(14): CodeIgniter\BaseModel->findAll()
+#7 E:\program files\xampp\htdocs\simta\system\CodeIgniter.php(927): App\Controllers\Products->index()
+#8 E:\program files\xampp\htdocs\simta\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#9 E:\program files\xampp\htdocs\simta\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\program files\xampp\htdocs\simta\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-12-13 22:12:45 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 224.
+ 1 SYSTEMPATH\BaseModel.php(585): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Products.php(14): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:23:07 --> syntax error, unexpected token "echo"
+in APPPATH\Views\proposal.php on line 11.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('proposal', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('proposal')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:24:32 --> Attempt to read property "idProp" on null
+in APPPATH\Views\proposal.php on line 13.
+ 1 APPPATH\Views\proposal.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "idProp" on null', 'APPPATH\\Views\\proposal.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\proposal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('proposal', [], true)
+ 5 APPPATH\Controllers\Home.php(13): view('proposal')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:24:34 --> Attempt to read property "idProp" on null
+in APPPATH\Views\proposal.php on line 13.
+ 1 APPPATH\Views\proposal.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "idProp" on null', 'APPPATH\\Views\\proposal.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\proposal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('proposal', [], true)
+ 5 APPPATH\Controllers\Home.php(13): view('proposal')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:34:31 --> Undefined variable $json
+in APPPATH\Views\proposal.php on line 13.
+ 1 APPPATH\Views\proposal.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $json', 'APPPATH\\Views\\proposal.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\proposal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('proposal', [], true)
+ 5 APPPATH\Controllers\Home.php(13): view('proposal')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:43:33 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\proposal.php on line 27.
+ 1 APPPATH\Views\proposal.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'APPPATH\\Views\\proposal.php', 27)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\proposal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('proposal', [], true)
+ 5 APPPATH\Controllers\Home.php(13): view('proposal')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 22:44:15 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\proposal.php on line 27.
+ 1 APPPATH\Views\proposal.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'APPPATH\\Views\\proposal.php', 27)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\proposal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('proposal', [], true)
+ 5 APPPATH\Controllers\Home.php(13): view('proposal')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->proposal()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

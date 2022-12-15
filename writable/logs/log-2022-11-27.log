@@ -1,0 +1,108 @@
+CRITICAL - 2022-11-27 22:42:41 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:42:51 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('1')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:43:25 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:43:48 --> Class "CodeIgniter\RESTfulapi\ResourceController" not found
+in APPPATH\Controllers\Products.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Products', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:43:50 --> Class "CodeIgniter\RESTfulapi\ResourceController" not found
+in APPPATH\Controllers\Products.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Products', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:43:52 --> Class "CodeIgniter\RESTfulapi\ResourceController" not found
+in APPPATH\Controllers\Products.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Products', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:44:08 --> Class "CodeIgniter\RESTfulapi\ResourceController" not found
+in APPPATH\Controllers\Products.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Products', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:44:35 --> Class "CodeIgniter\RESTfulapi\ResourceController" not found
+in APPPATH\Controllers\Products.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Products', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:45:09 --> Class "CodeIgniter\restfulapi\ResourceController" not found
+in APPPATH\Controllers\Products.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Products', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:54:37 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:58:26 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('show', '2')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 22:58:30 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('show')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')

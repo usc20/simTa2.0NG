@@ -1,0 +1,18 @@
+CRITICAL - 2022-12-09 17:49:46 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 17:49:55 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-09 17:50:50 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\Products.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Products->show('1')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
